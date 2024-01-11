@@ -1,0 +1,13 @@
+# NODE MODULES
+node_modules
+
+# FIRABASE KEY FILE
+src/db/key/*
+
+# ENV FILES
+.env
+.env.development
+.env.production
+
+# DS_STORE
+.DS_Store
